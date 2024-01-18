@@ -1,5 +1,15 @@
-# Get_Next_Line
+<p align="center">
+    <img src="img/get_next_linee.png"/>
+</p>
 
+<h1 align="center">
+   get_net_line
+</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/language-%20C-blue" />
+    <img src="https://img.shields.io/badge/100%2F100-green" />
+</p>
 ## Description
 `get_next_line` is a function in C designed to read a line from a file descriptor. It is part of the curriculum at 42, providing a fundamental understanding of file descriptors and dynamic memory allocation.
 
